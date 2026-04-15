@@ -258,7 +258,9 @@ Himachal Pradesh   18.54%
 
 ## 📝 License
 
-MIT License
+This project is licensed under the MIT License.
+
+See the full license details in the [LICENSE](LICENSE) file.
 
 ---
 
