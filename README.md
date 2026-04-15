@@ -26,7 +26,7 @@
 
 ## 🔍 Overview
 
-This project analyzes **unemployment trends in India** before, during, and after the COVID-19 pandemic.
+This project analyzes the socio-economic impact of COVID-19 on unemployment trends in India using real-world government data.
 The analysis compares urban and rural areas, identifies the most affected regions, and visualizes the dramatic spike in unemployment rates during the lockdown period (April–July 2020).
 
 **Dataset Source:** Unemployment in India (May 2019 - June 2020)
