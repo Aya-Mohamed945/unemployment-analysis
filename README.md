@@ -162,6 +162,28 @@ This will:
 
 ---
 
+## 📊 Interactive Dashboard (Streamlit)
+
+This project includes an interactive dashboard built using **Streamlit** to visualize unemployment trends in India.
+
+### 🚀 Features:
+- Real-time data preview
+- Unemployment trend over time
+- Top affected regions visualization
+- Simple and interactive UI
+
+---
+
+### ▶️ How to run the dashboard:
+
+```bash
+streamlit run app.py
+
+The dashboard will open automatically in your browser at:
+http://localhost:8501
+
+---
+
 ### Run Specific Modules (Interactive Mode)
 
 ```python
