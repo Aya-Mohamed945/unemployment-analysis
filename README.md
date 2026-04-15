@@ -34,6 +34,12 @@ The analysis compares urban and rural areas, identifies the most affected region
 
 ---
 
+## ⚙️ CI/CD (GitHub Actions)
+
+This project automatically runs analysis tests on every push using GitHub Actions to ensure code reliability.
+
+---
+
 ## 🎯 Key Findings
 
 | Finding                     | Insight                                                         |
