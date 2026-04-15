@@ -51,15 +51,19 @@ The analysis compares urban and rural areas, identifies the most affected region
 
 | 📈 Unemployment Trend | 🏆 Top 5 Regions |
 |:---:|:---:|
-| ![Unemployment](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/unemployment_over_time.png?raw=true) | ![Top 5](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/top5_regions.png?raw=true) |
+| ![Unemployment](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/unemployment_over_time.png) | ![Top 5](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/top5_regions.png) |
 
-| 🏙️ Urban vs Rural | 🔥 Correlation |
+| 🏙️ Urban vs Rural | 🔥 Correlation Heatmap |
 |:---:|:---:|
-| ![Urban Rural](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/urban_vs_rural_timeseries.png?raw=true) | ![Heatmap](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/correlation_heatmap.png?raw=true) |
+| ![Urban Rural](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/urban_vs_rural_timeseries.png) | ![Heatmap](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/correlation_heatmap.png) |
 
 | 📅 Monthly Pattern | 🌾 Urban/Rural Pie |
 |:---:|:---:|
-| ![Monthly](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/monthly_unemployment.png?raw=true) | ![Pie](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/urban_vs_rural_pie.png?raw=true) |
+| ![Monthly](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/monthly_unemployment.png) | ![Pie](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/urban_vs_rural_pie.png) |
+
+| 📊 Unemployment by Region | 📉 Employment Over Time |
+|:---:|:---:|
+| ![By Region](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/unemployment_by_region.png) | ![Employed](https://raw.githubusercontent.com/your-username/unemployment-analysis/main/outputs/figures/employed_over_time.png) |
 
 ---
 
