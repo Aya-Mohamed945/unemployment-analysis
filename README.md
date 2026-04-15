@@ -47,6 +47,22 @@ The analysis compares urban and rural areas, identifies the most affected region
 
 ---
 
+## 📸 Visualization Gallery
+
+| 📈 Unemployment Trend | 🏆 Top 5 Regions |
+|:---:|:---:|
+| ![Unemployment](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/unemployment_over_time.png?raw=true) | ![Top 5](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/top5_regions.png?raw=true) |
+
+| 🏙️ Urban vs Rural | 🔥 Correlation |
+|:---:|:---:|
+| ![Urban Rural](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/urban_vs_rural_timeseries.png?raw=true) | ![Heatmap](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/correlation_heatmap.png?raw=true) |
+
+| 📅 Monthly Pattern | 🌾 Urban/Rural Pie |
+|:---:|:---:|
+| ![Monthly](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/monthly_unemployment.png?raw=true) | ![Pie](https://github.com/your-username/unemployment-analysis/blob/main/outputs/figures/urban_vs_rural_pie.png?raw=true) |
+
+---
+
 ## 📁 Project Structure
 
 ```
